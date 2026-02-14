@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "935939902519",
+    "project_id": "innohive-19043",
+    "storage_bucket": "innohive-19043.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935939902519:android:90243bc5fb4742abbd03b2",
+        "android_client_info": {
+          "package_name": "com.example.innohive.innohive"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmiEtzUd_jr0ywKSb_2Zlj_isAGmhS3S8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
